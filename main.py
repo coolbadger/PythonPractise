@@ -1,6 +1,6 @@
 #coding=utf-8
+#求素数算法
 __author__ = 'badger'
-numberlist = []
 NumCount = 0
 startNum = 2L
 endNum = 10000L
